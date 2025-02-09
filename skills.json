@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/48/external-Machine-Learning-writing-and-translation-services-smashingstocks-flat-smashing-stocks.png"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/48/external-artificial-intelligence-the-future-flaticons-flat-flat-icons.png"
+    },
+    {
+        "name": "Automation",
+        "icon": "https://img.icons8.com/fluency/48/sync-settings.png"
+    },
+    {
+        "name": "Web Scraping",
+        "icon": "https://img.icons8.com/material-outlined/48/228BE6/web-scraper.png"
+    },
+    {
+        "name": "Web Crawling",
+        "icon": "https://img.icons8.com/material-outlined/48/228BE6/web-scraper.png"
+    },
+    {
+        "name": "GET",
+        "icon": "https://img.icons8.com/color/48/git.png"
+    },
+    {
+        "name": "DOCKER",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "TABLEAU",
+        "icon": "https://img.icons8.com/color/48/tableau-software.png"
+    },
+    {
+        "name": "Visualization",
+        "icon": "https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/48/external-Data-Visualization-data-and-network-smashingstocks-circular-smashing-stocks.png"
+    },
+    {
+        "name": "Google Colab",
+        "icon": "https://img.icons8.com/color/48/google-colab.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/ios-filled/48/228BE6/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/material-rounded/48/FA5252/css.png"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+    },
+    {
+        "name": "DATABASE",
+        "icon": "https://img.icons8.com/bubbles/48/database.png"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/48/opencv.png"
+    },
+    {
+        "name": "Data Analysis",
+        "icon": "https://img.icons8.com/arcade/48/financial-growth-analysis.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/nolan/48/amazon-web-services.png"
+    },
+    {
+        "name": "R",
+        "icon": "https://img.icons8.com/bubbles/48/r--v2.png"
+    },
+    {
+        "name": "Data Structures",
+        "icon": "https://img.icons8.com/external-solidglyph-m-oki-orlando/48/228BE6/external-data-structures-data-science-solid-solidglyph-m-oki-orlando.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Computer Networks",
+        "icon": "https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/48/228BE6/external-computer-networks-internet-of-things-smashingstocks-mixed-smashing-stocks.png"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/48/FD7E14/external-deep-learning-science-smashingstocks-mixed-smashing-stocks.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Networking",
+        "icon": "https://img.icons8.com/ios/48/FD7E14/omnichannel.png"
+    },
+    {
+        "name": "Hugging Face",
+        "icon": "https://img.icons8.com/ios/48/7950F2/hugging-face_app.png"
+    },
+    {
+        "name": "VScode",
+        "icon": "https://img.icons8.com/ios-filled/48/7950F2/visual-studio.png"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/ios-filled/48/FA5252/github.png"
+    },
+    {
+        "name": "ChatGPT",
+        "icon": "https://img.icons8.com/ios-filled/48/FA5252/chatgpt.png"
+    },
+    {
+        "name": "Web Host Domain",
+        "icon": "https://img.icons8.com/ios/48/228BE6/domain--v1.png"
+    }    
+]
